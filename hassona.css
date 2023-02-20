@@ -1,0 +1,160 @@
+*,*::after,*::before{
+    /* background-color: red; */
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+  padding: 20px;
+  color: #000;
+}
+img{
+  width: 200px;
+    height: 200px;
+}
+
+.img,.cute{
+    position: absolute;
+    top: 1000px;
+    left: 100px;
+}
+
+#imgcute{
+    width: 700px;
+    height: 500px;
+
+}
+
+
+.lbl{
+    display: inline-block;
+    font-size: 30px;
+
+}
+
+.vibration{
+  position: relative;
+  top: 0;
+  left: 0;
+  float: right;
+
+}
+
+input{
+  width: 50%;
+  height: 50px;
+  font-size: 30px;
+  padding: 0 20px;
+  margin:50px ;
+}
+
+.papacounter{
+  display: block;
+  width: fit-content;
+  /* border: 3px solid #e66574; */
+margin: auto;
+}
+
+#mycounter{
+  background-color: darkred;
+  color: bisque;
+text-align: center;
+display: table-cell;
+vertical-align: middle;
+font-size: 60px;
+border: 3px solid #e66574;
+border-radius: 90px;
+width: 190px;
+height: 190px;
+}
+#myDownload{
+  display: none;
+  font-style: 30px;
+  color: blue;
+  text-decoration: none;
+}
+
+#myDownload a{
+  font-style: 30px;
+  color: blue;
+  text-decoration: none;
+  /* background-color: red; */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px royalblue;
+}
+#makingclock{
+  color: red;
+  position: fixed;
+  top: 0;
+  right: 10px;
+}
+
+#makingclock2{
+  color: red;
+  position: fixed;
+  top: 50px;
+  right: 10px;
+}
+
+#mytext{
+border:3px solid blue;
+width: 300px;
+height: 50px;
+}
+
+#Check{
+  all: unset;
+  display: block;
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.walking{position: relative;}
+
+
+.none{display:none}
+.block{display: block}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
